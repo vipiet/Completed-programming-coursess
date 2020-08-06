@@ -1,5 +1,3 @@
-# Completed-programming-coursess
-
 Programming courses I've completed:
 
 Web Development: https://www.codecademy.com/learn/paths/web-development 
