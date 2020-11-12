@@ -1,6 +1,7 @@
 Programming courses I've completed:
 
 * Web Development Career Path: https://www.codecademy.com/learn/paths/web-development 
+  
   Including:
   - Learn HTML
   - Learn CSS 
