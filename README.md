@@ -11,6 +11,8 @@ Programming courses I've completed:
   - Learn the Command Line
   - Learn Git 
   - Learn React  
+  - Learn Node.js 
+  - Learn Express
   
 * Microsoft 70-480 Programming in HTML5 with JavaScript and CSS3: https://learn.careerchange.co.uk/course/index/1799 (August 2020)
 
