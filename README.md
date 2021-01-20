@@ -1,7 +1,8 @@
 Programming courses I've completed:
 
-* Web Development Career Path: https://www.codecademy.com/learn/paths/web-development 
-  
+* Learn Python 3: https://www.codecademy.com/learn/learn-python-3 
+
+* Web Development Career Path: https://www.codecademy.com/learn/paths/web-development (January 2021)
   Including:
   - Learn HTML
   - Learn CSS 
@@ -13,6 +14,10 @@ Programming courses I've completed:
   - Learn React  
   - Learn Node.js 
   - Learn Express
+  - Learn SQL
+  - Learn Node-SQLite
+  - Learn JavaScript Unit Testing
+  - Learn Testing for Web Development
   
 * Microsoft 70-480 Programming in HTML5 with JavaScript and CSS3: https://learn.careerchange.co.uk/course/index/1799 (August 2020)
 
