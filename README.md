@@ -3,6 +3,7 @@ Programming courses I've completed:
 * Learn Python 3: https://www.codecademy.com/learn/learn-python-3 
 
 * Web Development Career Path: https://www.codecademy.com/learn/paths/web-development (January 2021)
+  
   Including:
   - Learn HTML
   - Learn CSS 
