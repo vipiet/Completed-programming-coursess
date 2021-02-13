@@ -1,6 +1,6 @@
 Programming courses I've completed:
 
-* Learn Python 3: https://www.codecademy.com/learn/learn-python-3 
+* Learn Python 3: https://www.codecademy.com/learn/learn-python-3 (February 2021)
 
 * Web Development Career Path: https://www.codecademy.com/learn/paths/web-development (January 2021)
   
