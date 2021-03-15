@@ -1,5 +1,13 @@
 Programming courses I've completed:
 
+* Learn jQuery: https://www.codecademy.com/learn/learn-jquery (March 2021)
+
+* Learn C#: https://www.codecademy.com/learn/learn-c-sharp (March 2021)
+
+* Learn Java: https://www.codecademy.com/learn/learn-java (February 2021)
+
+* Learn PHP: https://www.codecademy.com/learn/learn-php (February 2021)
+
 * Learn Python 3: https://www.codecademy.com/learn/learn-python-3 (February 2021)
 
 * Web Development Career Path: https://www.codecademy.com/learn/paths/web-development (January 2021)
